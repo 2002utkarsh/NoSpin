@@ -22,11 +22,7 @@ try:
     HAS_GEMINI = True
     # List of API Keys for redundancy
     GEMINI_API_KEYS = [
-        "AIzaSyD5XgECWSmiy_cQ_bYilL9FIHDjYagMGHk",
-        "AIzaSyCdz7stqjJCXbfvO9xqJ_BMF-GxWNO7zWk",
-        "AIzaSyB5mCYqNzizgLkjoumguRitvLb2d--Q4YY",
-        "AIzaSyBfdPwKaUaKbLXjfjE54gu2E6OgEMX8mqA",
-        "AIzaSyDI3UTNhnjdQWPJ65QQBOU0fJ_amRz9vMQ"
+        #KEYS HERE
     ]
 except ImportError:
     HAS_GEMINI = False
